@@ -1,0 +1,64 @@
+Item ID,Item meta,Has NBT,Display Name
+2850,0,false,Energy Bridge
+2850,2,false,Universal Charger
+2851,0,false,MJ Consumer
+2851,1,false,MJ Producer
+2852,0,false,EU LV Consumer
+2852,1,false,EU LV Producer
+2852,2,false,EU MV Consumer
+2852,3,false,EU MV Producer
+2852,4,false,EU HV Consumer
+2852,5,false,EU HV Producer
+2852,6,false,EU EV Consumer
+2852,7,false,EU EV Producer
+2852,8,false,EU UV Consumer
+2852,9,false,EU UV Producer
+2855,0,false,RF Consumer
+2855,1,false,RF Producer
+7762,0,true,Iceman's Backpack
+7763,0,true,Woven Iceman's Backpack
+7764,0,true,Trackman's Backpack
+7765,0,true,Woven Trackman's Backpack
+13304,0,true,Apiarist's Backpack
+13305,0,true,Miner's Backpack
+13306,0,true,Digger's Backpack
+13307,0,true,Forester's Backpack
+13308,0,true,Hunter's Backpack
+13343,0,true,Lepidopterist's Backpack
+13344,0,true,Woven Miner's Backpack
+13345,0,true,Woven Digger's Backpack
+13346,0,true,Woven Forester's Backpack
+13347,0,true,Woven Hunter's Backpack
+13352,0,true,Adventurer's Backpack
+13353,0,true,Woven Adventurer's Backpack
+13362,0,true,Builder's Backpack
+13363,0,true,Woven Builder's Backpack
+14329,0,true,Random Streamer
+20500,0,true,Aquatic Backpack
+20501,0,true,Woven Aquatic Backpack
+20512,0,true,Perch?
+20512,0,true,Perch?
+20512,0,true,Tuna?
+20512,0,true,Tuna?
+20512,0,true,Dragonfish?
+20512,0,true,Dragonfish?
+20512,0,true,Piranha?
+20512,0,true,Piranha?
+20512,0,true,Sting Ray?
+20512,0,true,Sting Ray?
+20512,0,true,Manta Ray?
+20512,0,true,Manta Ray?
+20512,0,true,Electric Ray?
+20512,0,true,Electric Ray?
+20512,0,true,Pufferfish?
+20512,0,true,Pufferfish?
+20512,0,true,Jellyfish?
+20512,0,true,Jellyfish?
+20512,0,true,Man O' War?
+20512,0,true,Man O' War?
+20512,0,true,Siamese Fightin' Fish?
+20512,0,true,Siamese Fightin' Fish?
+20512,0,true,Blue Tang?
+20512,0,true,Blue Tang?
+26095,0,true,Unnamed
+26096,0,true,Woven 

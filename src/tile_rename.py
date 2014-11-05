@@ -15,6 +15,6 @@ with open('itempanel.csv', 'rt') as f:
         temp_id = row[0]
         temp_meta = row[1]
         temp_name = row[3]
-        if temp_id == itemID:
+        if temp_id == item_id:
             if temp_meta == metadata:
                 print temp_name
